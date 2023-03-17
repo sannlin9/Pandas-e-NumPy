@@ -1,1 +1,2 @@
-# Pandas-e-NumPy
+# Exercicios de Python.
+Incluindo provas de conceito de bibliotecas.
